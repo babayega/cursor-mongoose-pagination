@@ -9,6 +9,13 @@
         "mongoose",
         "cursor"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/babayega/cursor-mongoose-pagination.git"
+    },
+    "bugs": {
+        "url": "https://github.com/babayega/cursor-mongoose-pagination/issues"
+    },
     "main": "./lib/index.js",
     "author": {
         "name": "Shubhnkar Upadhyay",
@@ -16,6 +23,10 @@
         "url": "http://www.shubhnkar.me/"
     },
     "license": "MIT",
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+    }],
     "dependencies": {
         "moment": "^2.20.1",
         "underscore": "^1.8.3"
