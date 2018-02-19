@@ -1,0 +1,22 @@
+{
+    "name": "mongoose-cursor-pagination",
+    "version": "0.0.1",
+    "description": "Cursor pagination library for mongo using mongoose.",
+    "keywords": [
+        "express",
+        "mongo",
+        "pagination",
+        "mongoose",
+        "cursor"
+    ],
+    "main": "./lib/index.js",
+    "author": {
+        "name": "Shubhnkar Upadhyay",
+        "email": "shubh800@gmail.com",
+        "url": "http://www.shubhnkar.me/"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "underscore": "^1.8.3"
+    }
+}
