@@ -1,5 +1,5 @@
 {
-    "name": "mongoose-cursor-pagination",
+    "name": "cursor-mongoose-pagination",
     "version": "0.0.1",
     "description": "Cursor pagination library for mongo using mongoose.",
     "keywords": [
@@ -17,6 +17,7 @@
     },
     "license": "MIT",
     "dependencies": {
+        "moment": "^2.20.1",
         "underscore": "^1.8.3"
     }
 }
