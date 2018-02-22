@@ -1,6 +1,6 @@
 {
     "name": "cursor-mongoose-pagination",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Cursor pagination library for mongo using mongoose.",
     "keywords": [
         "express",
