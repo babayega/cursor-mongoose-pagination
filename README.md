@@ -36,6 +36,8 @@ cmp.paginate(FooModel, params)
         next = result[2]  // the cursor to the next document, this is null if hasMore is false
                           //  should be passed in the function above
   })
+  
+ ```
 
 Currently this library only supports sorting based upon the updatedAt value of the document. 
 Continously making changes, and looking for suggestions.
