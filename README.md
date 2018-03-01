@@ -1,6 +1,10 @@
 # cursor-mongoose-pagination
 Cursor based pagination library for mongo using mongoose.
 
+[![npm](https://img.shields.io/npm/dm/cursor-mongoose-pagination.svg?maxAge=2592000)](https://www.npmjs.com/package/cursor-mongoose-pagination)
+[![License](https://img.shields.io/npm/l/cursor-mongoose-pagination.svg?maxAge=2592000?style=plastic)](https://github.com/babayega/cursor-mongoose-pagination/blob/master/LICENSE)
+[![Known Vulnerabilities](https://snyk.io/test/github/babayega/cursor-mongoose-pagination/badge.svg?targetFile=package.json)](https://snyk.io/test/github/babayega/cursor-mongoose-pagination?targetFile=package.json)
+
 
 ## Installation
 
@@ -36,6 +40,8 @@ cmp.paginate(FooModel, params)
         next = result[2]  // the cursor to the next document, this is null if hasMore is false
                           //  should be passed in the function above
   })
+  
+ ```
 
 Currently this library only supports sorting based upon the updatedAt value of the document. 
 Continously making changes, and looking for suggestions.
