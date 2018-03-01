@@ -3,7 +3,7 @@ Cursor based pagination library for mongo using mongoose.
 
 [![npm](https://img.shields.io/npm/dm/cursor-mongoose-pagination.svg?maxAge=2592000)](https://www.npmjs.com/package/cursor-mongoose-pagination)
 [![License](https://img.shields.io/npm/l/cursor-mongoose-pagination.svg?maxAge=2592000?style=plastic)](https://github.com/babayega/cursor-mongoose-pagination/blob/master/LICENSE)
-
+[![Known Vulnerabilities](https://snyk.io/test/github/babayega/cursor-mongoose-pagination/badge.svg?targetFile=package.json)](https://snyk.io/test/github/babayega/cursor-mongoose-pagination?targetFile=package.json)
 
 
 ## Installation
